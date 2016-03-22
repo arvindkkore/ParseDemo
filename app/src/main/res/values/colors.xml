@@ -20,7 +20,7 @@
 
     <!-- Black -->
     <color name="black">#ff000000</color>
-
+    <color name="window_background">#FFF5F5F5</color>
     <!-- White -->
     <color name="white">#ffffffff</color>
 </resources>
